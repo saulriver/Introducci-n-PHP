@@ -34,4 +34,10 @@ echo "Esto es una variable arreglo con propiedades: $verduras[Verdura1]";
 #tambuen se puede crear el salto de linea asi:
 echo "<br><br>";
 
+#Variable objeto
+$frutas = (object)["fruta1" => "Manzana", "fruta2" => "Pera"];
+echo "Esto es una variable objeto: $frutas->fruta2";
+#tambuen se puede crear el salto de linea asi:
+echo "<br><br>";
+
 ?>
