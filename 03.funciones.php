@@ -1,0 +1,6 @@
+<?php
+#funciones sin parametros
+
+
+
+?>
