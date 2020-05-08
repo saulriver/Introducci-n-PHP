@@ -11,4 +11,10 @@ function despedida($adios){
 }
 despedida("Chao lola");
 
+#funciones con retorno
+function retorno($retornar){
+    return $retornar;
+}
+echo retorno("Esto es un retorno");
+
 ?>
