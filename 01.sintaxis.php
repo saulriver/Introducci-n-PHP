@@ -1,7 +1,7 @@
 <?php
 
-print"Mi primer codigo PHP";
+print"<h1>Mi primer codigo PHP</h1>";
 
-echo"Mi segundo codigo PHP", "Mi tercer codigo PHP";
+echo"<p>Mi segundo codigo PHP</p>", "<h3>Mi tercer codigo PHP</h3>";
 
 ?>
