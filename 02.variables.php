@@ -1,4 +1,4 @@
 <?php
 $numero = 5;
-echo $numero;
+echo "Esto es una variable numero: $numero";
 ?>
