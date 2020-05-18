@@ -18,7 +18,7 @@ class MvcController{
 
         $vistasUsuario = EnlacesPaginas::enlacesPaginasModel($enlacesController);
 
-        include $module;
+        include $vistasUsuario;
     }
 }
 
